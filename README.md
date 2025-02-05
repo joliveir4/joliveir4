@@ -1,4 +1,4 @@
-### <div align="center">I'm João, a full-time Tech Support Analyst and studying about DevOps since 2024🚀</div>  
+### <div align="center">I'm João, a full-time Tech Support Analyst and studying about Infra and CyberSecurity since 2024🚀</div>  
   
 
 - 🔭 I’m currently working on [Solve4ME](https://solve4me.com.br/)  
